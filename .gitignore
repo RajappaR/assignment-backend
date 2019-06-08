@@ -1,0 +1,7 @@
+node_modules
+storage
+logs
+uploads
+backup
+launch.json
+package-lock.json
